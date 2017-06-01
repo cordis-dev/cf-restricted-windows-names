@@ -1,0 +1,1 @@
+# cf-restricted-windows-names
